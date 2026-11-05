@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 打包（PyInstaller 等）
+build/
+dist/
+*.spec
+
+# 編輯器 / 系統檔
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
